@@ -1,0 +1,87 @@
+INFO     ParserConfig:parserConfig.py:20 系统根路径：D:\RobotAutoTest
+INFO     ParserConfig:parserConfig.py:23 获取当前路径：D:\RobotAutoTest\config\config.ini
+INFO     BrowserEngine:browserEngine.py:33 选择 Chrome 浏览器
+INFO     ParserConfig:parserConfig.py:20 系统根路径：D:\RobotAutoTest
+INFO     ParserConfig:parserConfig.py:23 获取当前路径：D:\RobotAutoTest\config\config.ini
+INFO     BrowserEngine:browserEngine.py:36 运行环境 https://www.baidu.com/
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:78 内容: '原神'  输入成功
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: su 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：《原神》全新世界区域——纳塔开放!
+纳塔是人与龙共同生活的国度.你可能已经听说过这种说法了,但百闻终不如一见.
+开放世界
+无缝地图自由探索
+卡通渲染
+番剧品质动画演出
+角色人设
+中日知名配音演员
+冒险之旅
+对抗强敌破解谜题
+原神 2025-04广告
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:78 内容: '鸣潮'  输入成功
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: su 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：《鸣潮》2.2版本 [真伪倒悬于高塔] 正式开启!
+《鸣潮》2.2版本「真伪倒悬于高塔」,人气共鸣者「守岸人」限时UP!完成系列..
+游戏名称:《鸣潮》
+七日签到活动:幽潮赠礼
+全新区域:阿维纽林、贝奥海域
+下载福利:免费108抽
+广州库洛科技有限公司 2025-04广告
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:78 内容: '星穹铁道'  输入成功
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: su 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：《崩坏：星穹铁道》全新3.2版本上线！ 官方
+"往者一生忽忽，来者一夜漫漫——迷途的人啊，请横渡那片无人航行过的冥河，请走进那片安提灵盛开的花丛。 亲爱的开拓者：欢迎来到3.2版本「走过安眠地的花丛」！ 你将探索新的文明，结识新的伙伴，在无数光怪陆离的「世界」与「世界」之间展开冒险。所有你想知道的，都将在群星中找到答案。"
+米哈游银河冒险策略游戏
+全实机剧情演出，高沉浸冒险体验
+立即下载
+网页试玩
+进入官网
+https://sr.mihoyo.com/ad  品牌广告
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:78 内容: '率土之滨'  输入成功
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: su 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：普天之下，莫非王土(《诗经·小雅·谷风之... - 百度百科
+出自《诗经·小雅·谷风之什·北山》，“溥天之下，莫非王土，率土之滨，莫非王臣”。解释为整句话意思是：普天之下，皆是王土，四海之内，皆是王臣。大夫失职，行事不公；以我为贤，却派遣...详情
+读音
+释义
+出处
+示例
+百度百科
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: kw 
+INFO     BasePage:basePage.py:78 内容: '中国'  输入成功
+INFO     BasePage:basePage.py:43 找到了元素 input ,id 定位成功  元素值为: su 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：中国
+
+百度百科
+中华人民共和国（the People's Republic of China），简称“中国”，成立于1949年10月1日，位于亚洲东部，太平洋西岸，是工人阶级领导的、以工农联盟为基础的人民民主专政的社会主义国家，以五星红旗为国旗、《义勇军进行曲》为国歌，国徽中间是五星照耀下的天安门，周围是谷穗和齿轮，通用语言文字是普通话和规范汉字，首都北京，是一个以汉族为主体、56个民族共同组成的统一的多民族国家。中国陆地面积约960万平方千米，东部和南部大陆海岸线1.8万多千米，海域总面积约473万平方千米。海域分布有大小岛屿7600多个，其中台湾岛最大，面积35798平方千米。中国同14国接壤，与8国海上相邻。省级行政区划为23个省、5个自治区、4个直辖市、2个特别行政区。中国是世界上历史最悠久的国家之一，有着光辉灿烂的文化和光荣的革命传统，世界遗产数量全球领先。1949年新中国成立后，进入社会主义革命和建设时期，1956年实现向社会主义过渡，此后社会主义建设在探索中曲折发展。“文化大革命”结束后实行改革开放，沿着中国特色社会主义道路，集中力量进行社会主义现代化建设。经过长期努力，中国特色社会主义进入了新时代。中国是世界上人口最多的发展中国家，国土面积居世界第三位，是世界第二大经济体，并持续成为世界经济增长最大的贡献者，2020年经济总量突破100万亿元。中国坚持独立自主的和平外交政策，是联合国安全理事会常任理事国，也是许多国际组织的重要成员，被认为是潜在超级大国之一。
+攻略
+签证
+机票
+酒店
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下

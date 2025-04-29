@@ -1,0 +1,43 @@
+caselist:
+  self: xpath=>//*[@id="case-items"]
+  divone:
+    self: /div[1]
+    span: /div/div/div[1]/div[1]/span
+    debtn: /div/div[3]/button
+  #删除用例询问弹窗组件
+deldialog:
+  self: xpath=>/html/body/div[3]/div/div/div/div[3]
+  dissbtn: /button[1]
+  truebtn: /button[2]
+
+#query:
+##  查询
+#  case_btn: 'xpath=>//*[@id="app"]/div/main/div/nav/div[1]/div/div[2]/div[2]/div[1]/div/div/div[3]'
+#  query_input: 'xpath=>/html/body/div[1]/div/div/main/div/div[1]/div[5]/div[1]/div[1]/header/div/form/div/div/div/div[1]/input'
+#  clear: 'xpath=>/html/body/div[1]/div/div[1]/main/div/div[1]/div[5]/div[1]/div[1]/header/div/form/div/div/div/div[2]/div/button'
+##  排序
+#sort:
+#  sort_btn: 'css_selector=>.mdi-filter-outline'
+#  option_tbyasc: 'xpath=>/html/body/div[1]/div/div[2]/div/div[1]/div'
+#  option_tbydesc: 'xpath=>/html/body/div[1]/div/div[2]/div/div[2]/div'
+#  option_tbyperson: 'xpath=>/html/body/div[1]/div/div[2]/div/div[3]/div'
+## 创建案例
+#create:
+#  create_case_btn: "xpath=>/html/body/div[1]/div/div/main/div/div[1]/div[5]/div[1]/div[1]/header/div/div[4]/button[2]"
+#  case_name: 'id=>activator_createCase'
+#  case_kinds: 'xpath=>//*[@placeholder="请输入执法办案系统案件类别"]'
+#  case_Kone: 'xpath=>/html/body/div[1]/div/div[4]/div/div[1]/div/div[1]'
+#  save_path: 'xpath=>/html/body/div[1]/div/div[3]/div/div/form/div[10]/div/div/div[1]/div/div[1]/input'
+#  describe: 'xpath=>/html/body/div[1]/div/div[3]/div/div/form/div[12]/div/div/div[1]/div/textarea'
+#  common: 'xpath=>/html/body/div[1]/div/div[3]/div/div/form/div[14]/div/div/div[1]/div/textarea'
+#  true_btn: 'xpath=>/html/body/div[1]/div/div[3]/div/div/div[2]/button[2]'
+#  dismiss: 'xpath=>/html/body/div[1]/div/div/main/div/div[3]/div/div/div[1]/div/div[4]/div/div[3]/div/div[2]/div[2]/div[3]/div/button[1]'
+#  menu: 'xpath=>//*[@id="app"]/div[1]/nav/div[2]/div/div[1]'
+#  out_casebtn: 'xpath=>//*[@id="app"]/div[2]/div/div/div[2]/div[2]'
+#  out_true: 'xpath=>//*[@id="notice-dialog"]/div/div/div/div[3]/button[2]'
+##进入案例
+#into_case:
+#  into_casespan: 'xpath=>//*[@id="case-items"]/div[1]/div/div[1]/div[1]/div[1]/span'
+#  into_caseitem: 'xpath=>//*[@id="case-items"]/div[2]'
+#  open_casebtn: 'xpath=>//*[@id="caseinfo"]/div/div[1]/div/div[2]/button'
+#  true_btn: 'xpath=>/html/body/div[4]/div/div/div/div[3]/div[2]/button'

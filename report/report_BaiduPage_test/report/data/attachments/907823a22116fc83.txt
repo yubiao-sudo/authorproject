@@ -1,0 +1,25 @@
+INFO     ParserConfig:parserConfig.py:20 系统根路径：D:\RobotAutoTest
+INFO     ParserConfig:parserConfig.py:23 获取当前路径：D:\RobotAutoTest\config\config.ini
+INFO     BrowserEngine:browserEngine.py:29 选择 Chrome 浏览器
+INFO     ParserConfig:parserConfig.py:20 系统根路径：D:\RobotAutoTest
+INFO     ParserConfig:parserConfig.py:23 获取当前路径：D:\RobotAutoTest\config\config.ini
+INFO     BrowserEngine:browserEngine.py:32 运行环境 https://www.baidu.com/
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:78 内容: '原神'  输入成功
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="su"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：《原神》全新地块——圣山开放!
+一切的火焰都曾来源于斯,一切的光亮都曾来源于斯.准备好一起揭开圣山「图兰..
+开放世界
+无缝地图自由探索
+卡通渲染
+番剧品质动画演出
+角色人设
+中日知名配音演员
+冒险之旅
+对抗强敌破解谜题
+原神 2025-04广告
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下

@@ -1,0 +1,16 @@
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:78 内容: '星穹铁道'  输入成功
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="su"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：《崩坏：星穹铁道》全新3.2版本上线！ 官方
+"往者一生忽忽，来者一夜漫漫——迷途的人啊，请横渡那片无人航行过的冥河，请走进那片安提灵盛开的花丛。 亲爱的开拓者：欢迎来到3.2版本「走过安眠地的花丛」！ 你将探索新的文明，结识新的伙伴，在无数光怪陆离的「世界」与「世界」之间展开冒险。所有你想知道的，都将在群星中找到答案。"
+米哈游银河冒险策略游戏
+全实机剧情演出，高沉浸冒险体验
+立即下载
+网页试玩
+进入官网
+https://sr.mihoyo.com/ad  品牌广告
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下

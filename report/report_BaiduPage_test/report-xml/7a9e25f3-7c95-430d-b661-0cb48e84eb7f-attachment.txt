@@ -1,0 +1,20 @@
+INFO     ParserConfig:parserConfig.py:20 系统根路径：D:\RobotAutoTest
+INFO     ParserConfig:parserConfig.py:23 获取当前路径：D:\RobotAutoTest\config\config.ini
+INFO     BrowserEngine:browserEngine.py:29 选择 Chrome 浏览器
+INFO     ParserConfig:parserConfig.py:20 系统根路径：D:\RobotAutoTest
+INFO     ParserConfig:parserConfig.py:23 获取当前路径：D:\RobotAutoTest\config\config.ini
+INFO     BrowserEngine:browserEngine.py:32 运行环境 https://www.baidu.com/
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:78 内容: '原神'  输入成功
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="su"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：《原神》全新世界区域——纳塔开放!
+纳塔是人与龙共同生活的国度.你可能已经听说过这种说法了,但百闻终不如一见.
+原神 2025-04广告
+2.3版本潮声庆典开启,海量周年限定豪礼/活动开启
+「赞妮」登场,自选共鸣者定向唤取开启,独家庆典福利赢10000Q币、5080显卡周年特别玩法·首充双倍重置·自选共鸣者唤取!5月23日登录领限定十连&纪念头像
+深圳市腾讯计算机系统 2025-04广告
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下

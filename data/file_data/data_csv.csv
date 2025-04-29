@@ -1,0 +1,5 @@
+account,原神,点击,"xpath=>//*[@id=""kw""],xpath=>//*[@id=""su""],xpath=>//*[@id=""content_left""]/div",原神
+admin,鸣潮,输入,"xpath=>//*[@id=""kw""],xpath=>//*[@id=""su""],xpath=>//*[@id=""content_left""]/div",鸣潮
+admin,星穹铁道,输入,"xpath=>//*[@id=""kw""],xpath=>//*[@id=""su""],xpath=>//*[@id=""content_left""]/div",星穹铁道
+admin,率土之滨,输入,"xpath=>//*[@id=""kw""],xpath=>//*[@id=""su""],xpath=>//*[@id=""content_left""]/div",率土之滨
+admin,中国,输入,"xpath=>//*[@id=""kw""],xpath=>//*[@id=""su""],xpath=>//*[@id=""content_left""]/div",中国

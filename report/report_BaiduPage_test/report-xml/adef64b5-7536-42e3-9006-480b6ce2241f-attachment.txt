@@ -1,0 +1,15 @@
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="kw"] 
+INFO     BasePage:basePage.py:78 内容: '率土之滨'  输入成功
+INFO     BasePage:basePage.py:61 已找到了元素 input, xpath 定位成功  元素属性为: //*[@id="su"] 
+INFO     BasePage:basePage.py:88 元素 input 被点击.
+INFO     BasePage:basePage.py:61 已找到了元素 div, xpath 定位成功  元素属性为: //*[@id="content_left"]/div 
+INFO     BasePage:basePage.py:30 文本内容为：普天之下，莫非王土(《诗经·小雅·谷风之... - 百度百科
+出自《诗经·小雅·谷风之什·北山》，“溥天之下，莫非王土，率土之滨，莫非王臣”。解释为整句话意思是：普天之下，皆是王土，四海之内，皆是王臣。大夫失职，行事不公；以我为贤，却派遣...详情
+读音
+释义
+出处
+示例
+百度百科
+INFO     BasePage:basePage.py:105 已截取屏幕截图并保存到文件夹 :D:\RobotAutoTest/screenshots/baidu_queryWorld下
